@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2022/06/08 16:28:29.526,1575,login_08-28-2022_5,200,OK,Thread Group 1-5,text,true,,1564,677,10,10,https://www.redgrocer.com/api/v2/auth/login,1575,0,1038
+2022/06/08 16:28:25.685,1575,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,1564,677,10,10,null,1575,3848,1038
+2022/06/08 16:28:31.108,217,Request_8801746273268_123456,,,Thread Group 1-5,text,true,,0,0,10,10,null,0,0,0
+2022/06/08 16:28:31.170,693,login_08-28-2022_9,200,OK,Thread Group 1-9,text,true,,1565,677,9,9,https://www.redgrocer.com/api/v2/auth/login,693,0,167
+2022/06/08 16:28:26.080,693,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,1565,677,9,9,null,693,5090,167
+2022/06/08 16:28:31.864,208,Request_8801629889679_pppppp,,,Thread Group 1-9,text,true,,0,0,9,9,null,0,0,0
+2022/06/08 16:28:32.701,647,login_08-28-2022_10,200,OK,Thread Group 1-10,text,true,,1564,677,8,8,https://www.redgrocer.com/api/v2/auth/login,647,0,148
+2022/06/08 16:28:26.179,647,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,1564,677,8,8,null,647,6523,148
+2022/06/08 16:28:33.349,163,Request_8801746273268_123456,,,Thread Group 1-10,text,true,,0,0,8,8,null,0,0,0
+2022/06/08 16:28:36.960,1093,login_08-28-2022_1,200,OK,Thread Group 1-1,text,true,,1565,677,7,7,https://www.redgrocer.com/api/v2/auth/login,1093,0,584
+2022/06/08 16:28:25.310,1093,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,1565,677,7,7,null,1093,11652,584
+2022/06/08 16:28:38.055,281,Request_8801675249699_249699,,,Thread Group 1-1,text,true,,0,0,7,7,null,0,0,0
+2022/06/08 16:28:37.090,1702,login_08-28-2022_6,200,OK,Thread Group 1-6,text,true,,1565,677,6,6,https://www.redgrocer.com/api/v2/auth/login,1702,0,1192
+2022/06/08 16:28:25.784,1702,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,1565,677,6,6,null,1702,11308,1192
+2022/06/08 16:28:38.795,253,Request_8801675249699_249699,,,Thread Group 1-6,text,true,,0,0,6,6,null,0,0,0
+2022/06/08 16:28:41.189,869,login_08-28-2022_7,401,Unauthorized,Thread Group 1-7,text,false,,346,679,5,5,https://www.redgrocer.com/api/v2/auth/login,869,0,429
+2022/06/08 16:28:25.881,869,Test,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-7,,false,,346,679,5,5,null,869,15309,429
+2022/06/08 16:28:42.059,203,Request_8801521428851_porosh09,,,Thread Group 1-7,text,true,,0,0,5,5,null,0,0,0
+2022/06/08 16:28:41.883,661,login_08-28-2022_4,200,OK,Thread Group 1-4,text,true,,1565,677,4,4,https://www.redgrocer.com/api/v2/auth/login,661,0,157
+2022/06/08 16:28:25.585,661,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,1565,677,4,4,null,661,16298,157
+2022/06/08 16:28:42.545,179,Request_8801629889679_pppppp,,,Thread Group 1-4,text,true,,0,0,4,4,null,0,0,0
+2022/06/08 16:28:47.516,1562,login_08-28-2022_3,200,OK,Thread Group 1-3,text,true,,1565,684,3,3,https://www.redgrocer.com/api/v2/auth/login,1562,0,1006
+2022/06/08 16:28:25.487,1562,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,1565,684,3,3,null,1562,22030,1006
+2022/06/08 16:28:49.079,338,Request_8801969237055_2468Sqa@@,,,Thread Group 1-3,text,true,,0,0,3,3,null,0,0,0
+2022/06/08 16:28:54.797,673,login_08-28-2022_8,200,OK,Thread Group 1-8,text,true,,1565,684,2,2,https://www.redgrocer.com/api/v2/auth/login,673,0,176
+2022/06/08 16:28:25.981,673,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,1565,684,2,2,null,673,28818,176
+2022/06/08 16:28:55.473,102,Request_8801969237055_2468Sqa@@,,,Thread Group 1-8,text,true,,0,0,2,2,null,0,0,0
+2022/06/08 16:28:55.777,864,login_08-28-2022_2,401,Unauthorized,Thread Group 1-2,text,false,,346,679,1,1,https://www.redgrocer.com/api/v2/auth/login,864,0,410
+2022/06/08 16:28:25.388,864,Test,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,346,679,1,1,null,864,30390,410
+2022/06/08 16:28:56.643,252,Request_8801521428851_porosh09,,,Thread Group 1-2,text,true,,0,0,1,1,null,0,0,0
